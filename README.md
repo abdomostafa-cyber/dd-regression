@@ -3,7 +3,9 @@ This repository contains the Jupyter Notebook used to generate the synthetic dat
 
 
 The height of the double descent peak depends strongly on the data and the model
+
 Abdalrhman Mostafa and Peter Latham
+
 [DOI placeholder]
 
 
