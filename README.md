@@ -38,7 +38,7 @@ You can also open the notebook directly in Google Colab using this badge:
 | `aligned` | Whether w\* is aligned or random | True / False |
 
 ## Outputs
-- **Plots**: Saved in `figures/` (log-scale generalization error curves, replica theory comparison).
+- **Plots**: Saved in `figures/` (log-scale generalization error curves, average generalization error comparison).
 - **Data**: Generated datasets are stored in the `data/` directory.
 
 ## Citation
