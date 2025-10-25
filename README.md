@@ -1,4 +1,4 @@
-# Synthetic Data Generation Notebook for [The height of the double descent peak depends strongly on the data and the model]
+# Synthetic Data Generation Notebook for The height of the double descent peak depends strongly on the data and the model
 This repository contains the Jupyter Notebook used to generate the synthetic datasets and plots presented in the paper:
 
 
