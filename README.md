@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 You can also open the notebook directly in Google Colab using this badge:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdomostafa-cyber/dd-regression/blob/main/Synthetic Data Generation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdomostafa-cyber/dd-regression/blob/main/Synthetic%20Data%20Generation.ipynb)
 
 ## How to Use
 
