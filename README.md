@@ -31,7 +31,7 @@ You can also open the notebook directly in Google Colab using this badge:
 ## Key Parameters
 | Parameter | Description | Example Value |
 |------------|-------------|----------------|
-| `N` | Number of features | 1000 |
+| `N` | Number of parameters | 1000 |
 | `P` | Number of samples | αN |
 | `epsilon` | Regularization strength | 1e-1~1e-15 |
 | `n` | Eigenvalue decay power | 0, 1, 2 |
